@@ -1,4 +1,4 @@
-package com.example.demo.service;
+package com.example.demo.springBootUnitTest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
